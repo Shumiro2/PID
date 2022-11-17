@@ -12,6 +12,7 @@ classifier =load_model(r'C:\Users\armej\Desktop\PID\Emotion_Detection_CNN\model.
 
 emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
 
+
 cap = cv2.VideoCapture(0)
 
 
